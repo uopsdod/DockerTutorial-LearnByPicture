@@ -26,7 +26,7 @@ https://bre.is/cg3qa54e
 
 3. Docker Compose 實作
 
-4. Docker Swarm 實作
+4. Docker Swarm 實作
 
 5. Docker Swarm vs Kubernetes
 
